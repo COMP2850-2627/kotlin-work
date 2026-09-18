@@ -1,0 +1,5 @@
+[versions]
+mordant = "3.1.0"
+
+[libraries]
+mordant = { module = "com.github.ajalt.mordant:mordant", version.ref = "mordant" }

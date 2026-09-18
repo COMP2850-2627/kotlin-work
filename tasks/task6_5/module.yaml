@@ -1,0 +1,6 @@
+product: jvm/app
+
+test-dependencies:
+  - $libs.kotest.assertions
+  - $libs.kotest.framework
+  - $libs.kotest.runner: runtime-only

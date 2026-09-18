@@ -1,0 +1,5 @@
+[versions]
+datetime = "0.8.0"
+
+[libraries]
+datetime-jvm = { module = "org.jetbrains.kotlinx:kotlinx-datetime-jvm", version.ref = "datetime" }

@@ -1,0 +1,2 @@
+#!/bin/bash
+source ./kotlin run --jvm-args="--enable-native-access=ALL-UNNAMED" $1 $2 $3

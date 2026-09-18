@@ -1,0 +1,11 @@
+.gradle/
+.kotlin/
+.idea/
+.vscode/
+__pycache__/
+META-INF/
+build/
+out/
+.DS_Store
+*.class
+*.iml

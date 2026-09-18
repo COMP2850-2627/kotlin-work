@@ -1,0 +1,5 @@
+product: jvm/app
+
+dependencies:
+  - $libs.datetime.jvm
+  - $libs.mordant
