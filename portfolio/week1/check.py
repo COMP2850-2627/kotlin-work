@@ -11,7 +11,7 @@ This script cannot be used on Microsoft Windows systems!
 Please run it in a Linux or macOS environment.
 """
 
-BASE_COMMAND = ["kotlin", "--log-level=off", "run"]
+BASE_COMMAND = ["./kotlin", "--log-level=off", "run"]
 
 USAGE_MESSAGE = b"Error: values for a, b, c required on command line\n"
 
