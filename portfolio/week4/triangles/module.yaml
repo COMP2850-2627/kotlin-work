@@ -1,0 +1,8 @@
+product:
+  type: lib
+  platforms: [jvm]
+
+test-dependencies:
+  - $libs.kotest.assertions
+  - $libs.kotest.framework
+  - $libs.kotest.runner: runtime-only

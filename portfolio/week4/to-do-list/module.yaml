@@ -1,0 +1,15 @@
+product: jvm/app
+
+test-settings:
+  jvm:
+    test:
+      freeJvmArgs: ["-Xshare:off", "-XX:+EnableDynamicAgentLoading"]
+
+dependencies:
+  - $libs.datetime.jvm
+
+test-dependencies:
+  - $libs.kotest.assertions
+  - $libs.kotest.framework
+  - $libs.kotest.runner: runtime-only
+  - $libs.mockk
