@@ -1,7 +1,7 @@
 # Kotlin Programming Work
 
-This repository holds all of the work that you will do during the first
-five weeks of COMP2850.
+Your fork of this repository holds all of the work that you will do during
+the first five weeks of COMP2850.
 
 Each classroom task occupies its own subdirectory of `tasks`, and each
 portfolio assignment occupies its own subdirectory of `portfolio`. Please
