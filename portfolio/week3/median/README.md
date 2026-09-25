@@ -25,7 +25,7 @@ so that the test will fail if a median isn't being calculated correctly.
 
 If the tests reveal any problems with your implementation of `median()`, fix
 them. When you have five well-chosen tests that all pass, you will have
-completed this part of the assignment sucessfully.
+completed this part of the assignment successfully.
 
 
 [sec65]: https://comp2850.github.io/kotlin-guide/testing1/kotest

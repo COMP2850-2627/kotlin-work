@@ -44,7 +44,7 @@ three properties, separated by a colon and a space, e.g.,
 `ToDoItem` also has an `isOverdue()` method that returns `true` if the due
 date comes before today's date, otherwise `false`.
 
-A `ToDoList` is an aggregration of `ToDoItem` objects. It has a set of
+A `ToDoList` is an aggregation of `ToDoItem` objects. It has a set of
 computed properties that give the size of the list, the number of items with
 a status of `NotStarted`, the number of items with a status of `InProgress`,
 the number of items with a status of `Done`, and the number of items that
