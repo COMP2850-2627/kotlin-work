@@ -10,6 +10,8 @@ import io.kotest.matchers.reflection.shouldBeSubtypeOf
 import io.kotest.matchers.shouldBe
 import io.kotest.matchers.throwable.shouldHaveMessage
 
+const val MAX_OVERDRAFT = 100
+
 @Suppress("Unused")
 class StudentAccountTest : FreeSpec({
     val account = StudentAccount("Sarah")
